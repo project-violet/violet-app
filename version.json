@@ -1,0 +1,8 @@
+{
+  "version": "0.7.0",
+  "download_link": "asdf",
+  "db": [
+    {"date":"20200711", "chunk":"asdf.json.compress", "range_starts": 30, "range_ends": 99},
+    {"date":"20200710", "chunk":"asdb.json.compress", "range_starts": 10, "range_ends": 29},
+  ]
+}
