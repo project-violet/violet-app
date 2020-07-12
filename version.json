@@ -1,7 +1,14 @@
 {
   "version": "0.7.0",
   "download_link": "asdf",
-  "db": [
+  "rawdb": [
+    {"date":"20200712", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.12/hitomidata.7z"},
+    {"date":"20200712", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.12/hitomidata-chinese.7z"},
+    {"date":"20200712", "language":"english", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.12/hitomidata-english.7z"},
+    {"date":"20200712", "language":"japanese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.12/hitomidata-japanese.7z"},
+    {"date":"20200712", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.12/hitomidata-korean.7z"},
+  ],
+  "dbchunk": [
     {"date":"20200712", "language":"korean", "chunk":"https://raw.github/xxxx.json.compress", "range_starts": 10, "range_ends": 29},
     {"date":"20200711", "language":"all", "chunk":"asdf.json.compress", "range_starts": 30, "range_ends": 99},
     {"date":"20200710", "language":"all", "chunk":"asdb.json.compress", "range_starts": 10, "range_ends": 29}
