@@ -4,6 +4,6 @@
   "db": [
     {"date":"20200712", "language":"korean", "chunk":"https://raw.github/xxxx.json.compress", "range_starts": 10, "range_ends": 29},
     {"date":"20200711", "language":"all", "chunk":"asdf.json.compress", "range_starts": 30, "range_ends": 99},
-    {"date":"20200710", "language":"all", "chunk":"asdb.json.compress", "range_starts": 10, "range_ends": 29},
+    {"date":"20200710", "language":"all", "chunk":"asdb.json.compress", "range_starts": 10, "range_ends": 29}
   ]
 }
