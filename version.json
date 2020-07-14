@@ -3,11 +3,11 @@
   "download_link": "https://github.com/project-violet/violet-app/releases/download/0.7.2/app-release.apk",
   "message": "0.7.2 Update",
   "rawdb": [
-    {"date":"20200713", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.13/hitomidata.7z"},
-    {"date":"20200713", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.13/hitomidata-chinese.7z"},
-    {"date":"20200713", "language":"english", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.13/hitomidata-english.7z"},
-    {"date":"20200713", "language":"japanese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.13/hitomidata-japanese.7z"},
-    {"date":"20200713", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.13/hitomidata-korean.7z"}
+    {"date":"20200714", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata.7z"},
+    {"date":"20200714", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-chinese.7z"},
+    {"date":"20200714", "language":"english", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-english.7z"},
+    {"date":"20200714", "language":"japanese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-japanese.7z"},
+    {"date":"20200714", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-korean.7z"}
   ],
   "dbchunk": [
     {"date":"20200712", "language":"korean", "chunk":"https://raw.github/xxxx.json.compress", "range_starts": 10, "range_ends": 29},
