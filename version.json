@@ -1,7 +1,7 @@
 {
-  "version": "0.8.1",
-  "download_link": "https://github.com/project-violet/violet/releases/download/0.8.1/app-release.apk",
-  "message": "0.8.1 Update. Add instagram downloader.",
+  "version": "0.8.2",
+  "download_link": "https://github.com/project-violet/violet/releases/download/0.8.2/app-release.apk",
+  "message": "0.8.2 Update. More information check discord server.",
   "rawdb": [
     {"date":"20200714", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata.7z"},
     {"date":"20200714", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-chinese.7z"},
@@ -10,11 +10,11 @@
     {"date":"20200714", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-korean.7z"}
   ],
   "rawdb2": [
-    {"date":"20200722", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.22/rawdata.7z"},
-    {"date":"20200722", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.22/rawdata-chinese.7z"},
-    {"date":"20200722", "language":"english", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.22/rawdata-english.7z"},
-    {"date":"20200722", "language":"japanese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.22/rawdata-japanese.7z"},
-    {"date":"20200722", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.22/rawdata-korean.7z"}
+    {"date":"20200724", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.24/rawdata.7z"},
+    {"date":"20200724", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.24/rawdata-chinese.7z"},
+    {"date":"20200724", "language":"english", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.24/rawdata-english.7z"},
+    {"date":"20200724", "language":"japanese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.24/rawdata-japanese.7z"},
+    {"date":"20200724", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.24/rawdata-korean.7z"}
   ],
   "dbchunk": [
     {"date":"20200712", "language":"korean", "chunk":"https://raw.github/xxxx.json.compress", "range_starts": 10, "range_ends": 29},
