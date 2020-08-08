@@ -10,11 +10,11 @@
     {"date":"20200714", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-korean.7z"}
   ],
   "rawdb2": [
-    {"date":"20200804", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.04/rawdata.7z"},
-    {"date":"20200804", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.04/rawdata-chinese.7z"},
-    {"date":"20200804", "language":"english", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.04/rawdata-english.7z"},
-    {"date":"20200804", "language":"japanese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.04/rawdata-japanese.7z"},
-    {"date":"20200804", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.04/rawdata-korean.7z"}
+    {"date":"20200808", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.08/rawdata.7z"},
+    {"date":"20200808", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.08/rawdata-chinese.7z"},
+    {"date":"20200808", "language":"english", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.08/rawdata-english.7z"},
+    {"date":"20200808", "language":"japanese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.08/rawdata-japanese.7z"},
+    {"date":"20200808", "language":"korean", "chunk":"https://github.com/violet-dev/db/releases/download/2020.08.08/rawdata-korean.7z"}
   ],
   "dbchunk": [
     {"date":"20200712", "language":"korean", "chunk":"https://raw.github/xxxx.json.compress", "range_starts": 10, "range_ends": 29},
