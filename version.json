@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "download_link": "https://github.com/project-violet/violet/releases/download/1.0.0/app-release.apk",
-  "message": "Major Version Update.",
+  "version": "1.0.1",
+  "download_link": "https://github.com/project-violet/violet/releases/download/1.0.1/app-release.apk",
+  "message": "Hot Fix. Rollback memory manager",
   "rawdb": [
     {"date":"20200714", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata.7z"},
     {"date":"20200714", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-chinese.7z"},
