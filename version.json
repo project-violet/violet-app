@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "download_link": "https://github.com/project-violet/violet/releases/download/1.4.1/app-release.apk",
-  "message": "1.4.1 Update. Check Patch Note",
+  "version": "1.5.0",
+  "download_link": "https://github.com/project-violet/violet/releases/download/1.5.0/app-release.apk",
+  "message": "1.5 Update. Check Patch Note",
   "rawdb": [
     {"date":"20200714", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata.7z"},
     {"date":"20200714", "language":"chinese", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata-chinese.7z"},
