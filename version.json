@@ -1,6 +1,6 @@
 {
-  "version": "1.11.0",
-  "download_link": "https://github.com/project-violet/violet/releases/download/1.11.0/app-release.apk",
+  "version": "1.10.2",
+  "download_link": "https://github.com/project-violet/violet/releases/download/1.10.2/app-release.apk",
   "message": "",
   "rawdb": [
     {"date":"20200714", "language":"all", "chunk":"https://github.com/violet-dev/db/releases/download/2020.07.14/hitomidata.7z"},
